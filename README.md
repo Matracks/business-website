@@ -1,5 +1,5 @@
-![GitHub last commit](https://img.shields.io/github/last-commit/matracks/webpersonal?color=blue)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/matracks/webpersonal?color=purple)
+![GitHub last commit](https://img.shields.io/github/last-commit/matracks/business-web?color=blue)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/matracks/business-web?color=purple)
 
 # Business Web
 
@@ -51,4 +51,4 @@ python manage.py runserver
 
 [Pipenv](https://pipenv.pypa.io/en/latest/)
 
-[Website](https://matracks.pythonanywhere.com/)
+[Website in pythonanywhere](https://matracks.pythonanywhere.com/)
