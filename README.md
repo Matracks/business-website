@@ -1,5 +1,5 @@
-![GitHub last commit](https://img.shields.io/github/last-commit/matracks/business-web?color=blue)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/matracks/business-web?color=purple)
+![GitHub last commit](https://img.shields.io/github/last-commit/matracks/business-website?color=blue)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/matracks/business-website?color=purple)
 
 # Business Web
 
